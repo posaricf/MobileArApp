@@ -1,0 +1,227 @@
+{
+    "m_SelectedDeviceId": "RFCR20MXSPZ",
+    "m_SelectedPackage": {
+        "deviceId": "RFCR20MXSPZ",
+        "name": "com.DeltaReality.InternshipFranQuiz",
+        "processId": 8103,
+        "exited": false
+    },
+    "m_SelectedPriority": 1,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 24687,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 25657,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 26969,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 29743,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 30963,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 31740,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 32592,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 19541,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 22410,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 23231,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 30764,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 32146,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 3559,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 5225,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 5951,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 7194,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCR20MXSPZ",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 8103,
+            "exited": false
+        },
+        {
+            "deviceId": "MUN0218928005201",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 17485,
+            "exited": false
+        },
+        {
+            "deviceId": "MUN0218928005201",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 19497,
+            "exited": false
+        },
+        {
+            "deviceId": "MUN0218928005201",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 20925,
+            "exited": false
+        },
+        {
+            "deviceId": "MUN0218928005201",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 26574,
+            "exited": false
+        },
+        {
+            "deviceId": "MUN0218928005201",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 32718,
+            "exited": false
+        },
+        {
+            "deviceId": "MUN0218928005201",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 2779,
+            "exited": false
+        },
+        {
+            "deviceId": "MUN0218928005201",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 5476,
+            "exited": false
+        },
+        {
+            "deviceId": "MUN0218928005201",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 7401,
+            "exited": false
+        },
+        {
+            "deviceId": "MUN0218928005201",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 9111,
+            "exited": false
+        },
+        {
+            "deviceId": "MUN0218928005201",
+            "name": "com.DeltaReality.InternshipFranQuiz",
+            "processId": 10797,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

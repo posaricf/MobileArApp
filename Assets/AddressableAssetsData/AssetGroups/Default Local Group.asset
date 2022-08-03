@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 60a82a88f6818364798f52c97603fd10
+  m_SerializeEntries:
+  - m_GUID: 9c033e2881d0abe4dade5c5c82d5db0e
+    m_Address: Assets/Import/shiba/Shiba 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0231ec5c0c8459d459bfd820f8b5c097
+    m_Address: Assets/Import/rubber_duck/rubber_duck.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72c03956fff15a84db0c499bf997b488
+    m_Address: Assets/Textures/bat_duck_2d.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17260993d1b4e574da770346b2f416ac
+    m_Address: Assets/Textures/duck_2d.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7af107eb63d9ab944b96d2a35d0754ed
+    m_Address: Assets/Textures/shiba_2d.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a68d0f9af2db4a1488d3791cb40929e5
+    m_Address: Assets/Sound fx/Animals/Other/Duck Quacking.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f3a7ca9e9848244d9354196d0dd438b
+    m_Address: Assets/Sound fx/Animals/Dogs/Dogs Bark #3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e1af4dd91a4a4b46a7fb50201503bea
+    m_Address: Assets/Import/batman_rubber_duck/Batman_rubber_duck 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4532593a19a92fc4a9cc8d4640f1be7d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 656f5992d33ec0648b2cfd2a253f406b, type: 2}
+    - {fileID: 11400000, guid: 3ac9971556e6b344eb328d4bb6296dbe, type: 2}

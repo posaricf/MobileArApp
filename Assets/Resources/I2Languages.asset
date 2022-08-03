@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Back
+      TermType: 0
+      Description: 
+      Languages:
+      - Back
+      - Natrag
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Change
+      TermType: 0
+      Description: 
+      Languages:
+      - Change language
+      - Promijeni jezik
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Info
+      TermType: 0
+      Description: 
+      Languages:
+      - Info
+      - Info
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Main menu
+      TermType: 0
+      Description: 
+      Languages:
+      - Main menu
+      - Glavni izbornik
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Next
+      TermType: 0
+      Description: 
+      Languages:
+      - Next
+      - "Sljede\u0107i"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Quiz
+      TermType: 0
+      Description: 
+      Languages:
+      - Quiz
+      - Kviz
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Restart
+      TermType: 0
+      Description: 
+      Languages:
+      - Restart
+      - Ponovno pokreni
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Settings
+      TermType: 0
+      Description: 
+      Languages:
+      - Settings
+      - Postavke
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question/Banknote_100kn
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Which person is on the front of a
+
+        100kn banknote?'
+      - "Koja je osoba na prednjoj strani\nnov\u010Danice od 100kn?"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question/Banknote_500kn
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Which person is on the front of a
+
+        500kn banknote?'
+      - "Koja je osoba na prednjoj strani\nnov\u010Danice od 500kn?"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Question/Banknote_20kn
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Which person is on the front of a
+
+        20kn banknote?'
+      - "Koja je osoba na prednjoj strani\nnov\u010Danice od 20kn?"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Answers/Antun Mihanovi\u0107"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Antun Mihanovi\u0107"
+      - "Antun Mihanovi\u0107"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Answers/Ban J. Jela\u010Di\u0107"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ban J. Jela\u010Di\u0107"
+      - "Ban J. Jela\u010Di\u0107"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Answers/Ivan Ivi\u0107"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ivan Ivi\u0107"
+      - "Ivan Ivi\u0107"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Answers/Ivan Ma\u017Eurani\u0107"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ivan Ma\u017Eurani\u0107"
+      - "Ivan Ma\u017Eurani\u0107"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Answers/Ivo Sanader
+      TermType: 0
+      Description: 
+      Languages:
+      - Ivo Sanader
+      - Ivo Sanader
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Answers/Ljudevit Gaj
+      TermType: 0
+      Description: 
+      Languages:
+      - Ljudevit Gaj
+      - Ljudevit Gaj
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Answers/Marko Maruli\u0107"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Marko Maruli\u0107"
+      - "Marko Maruli\u0107"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Answers/Nikola Tesla
+      TermType: 0
+      Description: 
+      Languages:
+      - Nikola Tesla
+      - Nikola Tesla
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Answers/Ru\u0111er Bo\u0161kovi\u0107"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ru\u0111er Bo\u0161kovi\u0107"
+      - "Ru\u0111er Bo\u0161kovi\u0107"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Answers/Slavoljub Penkala
+      TermType: 0
+      Description: 
+      Languages:
+      - Slavoljub Penkala
+      - Slavoljub Penkala
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Answers/Stjepan Radi\u0107"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Stjepan Radi\u0107"
+      - "Stjepan Radi\u0107"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "Answers/Tin Ujevi\u0107"
+      TermType: 0
+      Description: 
+      Languages:
+      - "Tin Ujevi\u0107"
+      - "Tin Ujevi\u0107"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Total score
+      TermType: 0
+      Description: 
+      Languages:
+      - Total score
+      - Ukupni rezultat
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AR
+      TermType: 0
+      Description: 
+      Languages:
+      - AR
+      - AR
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Toggle sound
+      TermType: 0
+      Description: 
+      Languages:
+      - Toggle sound
+      - "Uklju\u010Di/isklju\u010Di zvuk"
+      Flags: 0000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Croatian
+      Code: hr
+      Flags: 0
+    IgnoreDeviceLanguage: 1
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbzZPI10HsrW_6cYD1duThqJCZQ7PeP-NYnbF5wmuoT96wnNF2wEWbuaEQIwB73xa2lP/exec
+    Google_SpreadsheetKey: 1LQ0F9C2gcZsgd48FD8r-aJkfEJFLJuvGRPFxf7OsWoI
+    Google_SpreadsheetName: I2Loc 2022-Internship-Fran-Quiz Localization
+    Google_LastUpdatedVersion: 1657710297887
+    Google_Password: change_this
+    GoogleUpdateFrequency: 0
+    GoogleInEditorCheckFrequency: 0
+    GoogleUpdateSynchronization: 2
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
